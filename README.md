@@ -41,5 +41,4 @@ Clean and responsive UI
 
 ✔️ Reset works perfectly every time
 
-📸 Screenshots
-Start	Winner Detected	Draw
+
